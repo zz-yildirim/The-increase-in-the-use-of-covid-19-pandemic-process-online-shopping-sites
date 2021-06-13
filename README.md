@@ -1,8 +1,13 @@
-##**THE IMPACT OF THE COVID-19 PANDEMIC ON AMAZON.COM**
-##**Problem :**
+[23:46, 13.06.2021] Umutcan Dksk: ## *THE IMPACT OF THE COVID-19 PANDEMIC ON AMAZON.COM*
+
+## *Problem :*
+
 What is the change in e-commerce sales on amazon.com during the Covid-19 period ?
-##**Part of A :**
-###*Introduction :*
+
+## *Part of A :*
+
+### Introduction :
+
 In the Covid-19 period, there were changes in people's lifestyle. One of these changes was the
 frequency of use of online shopping sites that are already developing steadily. Online
 shopping sites were born from the desire of people to shop effortlessly and reach all their
@@ -11,7 +16,9 @@ process, it turned into a mandatory need. Realizing this situation, e-commerce s
 widespread by expanding their order networks and product range.
 Amazon.com is one of the biggest on the market. I think that I can reach enough data to
 examine the effects of this period on e-commerce companies.
-###*The Story of Problem :*
+
+### The Story of Problem :
+
 For us born in generations Y and z, internet is a basic need found at every stage of our lives
 and sometimes a tool by which we can obtain our basic needs.
 As someone who uses online shopping sites actively in the pre-pandemic period, my personal
@@ -22,13 +29,20 @@ positive. So how were the larger companies affected, or how far were the market 
 this area affected? Is it completely positive in effect? Probably yes, but I hope that by
 visualizing the answers to these questions, I will be able to learn the real effect more clearly
 and present it to the curious.
-##**Part of B :**
-###*Information About Data :*
+
+## *Part of B :*
+
+### Information About Data :
+
 Amazon publishes its sales data every three months from its website. I will use the
 information on net sales, operating earnings, operating expenses, total income and diluted
 earnings per share to see which way the company is affected from these data. I plan to use the
 data of the pre-pandemic and in-process years to clearly examine the difference.
-##**Tools :**
+
+## *Tools :*
+
 I will use Python's matplotlib library for data visualization.
-##**Reference :**
+
+## *Reference :*
+
 https://ir.aboutamazon.com/quarterly-results/default.aspx
